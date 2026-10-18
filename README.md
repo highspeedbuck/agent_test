@@ -23,3 +23,15 @@ Hello, World!
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+## 运行 Hello3
+
+```bash
+python hello3.py
+```
+
+## Hello3 期望输出
+
+```text
+Hello World3
+```
